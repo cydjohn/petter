@@ -1,0 +1,7 @@
+# petter
+
+## run
+
+```
+pod install 
+```
