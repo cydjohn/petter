@@ -1,0 +1,20 @@
+PODS:
+  - LFLiveKit (2.6)
+  - TensorFlowLite (1.10.1)
+
+DEPENDENCIES:
+  - LFLiveKit
+  - TensorFlowLite (= 1.10.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LFLiveKit
+    - TensorFlowLite
+
+SPEC CHECKSUMS:
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+  TensorFlowLite: 6274f29bbf7e234edb3108f0f32728b5a4d53d77
+
+PODFILE CHECKSUM: 567fadb57ecd1933eaa1aeebb1d3ed9d5a4fcbfa
+
+COCOAPODS: 1.5.3
